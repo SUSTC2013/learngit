@@ -1,0 +1,2 @@
+This is just a test for using Git.
+I want to know the usage of Git.
